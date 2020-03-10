@@ -1,4 +1,4 @@
-import React, { useState } from "react";;
+import React, { useState } from "react";
 
 export default function CustomizeImage() {
     const [url, setUrl] = useState("");
