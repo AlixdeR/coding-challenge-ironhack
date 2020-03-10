@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+ .cold-temp{
+   color: blue;
+ }
+
+.warm-temp{
+  color: red;
+}
